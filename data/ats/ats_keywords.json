@@ -1,0 +1,125 @@
+{
+  "summary_section": {
+    "strong_openers": [
+      "results-driven", "passionate", "experienced", "seasoned",
+      "innovative", "dynamic", "detail-oriented", "proven",
+      "strategic", "highly skilled", "accomplished", "dedicated",
+      "cross-functional", "solution-oriented", "forward-thinking"
+    ],
+    "avoid": [
+      "i am", "i have", "my goal", "i want", "i am looking for",
+      "seeking an opportunity", "hopefully", "i believe"
+    ]
+  },
+  "experience_section": {
+    "impact_phrases": [
+      "increased revenue by", "reduced costs by", "improved efficiency by",
+      "led a team of", "managed a budget of", "delivered on time",
+      "achieved a", "resulting in", "contributing to",
+      "streamlined the", "automated the", "scaled the",
+      "drove growth", "generated", "saved", "cut",
+      "boosted", "accelerated", "optimized", "launched"
+    ],
+    "quantification_triggers": [
+      "%", "percent", "million", "billion", "thousand",
+      "x", "times", "annually", "per month", "per quarter",
+      "team of", "budget of", "revenue of", "users", "clients",
+      "customers", "projects", "applications", "systems"
+    ]
+  },
+  "skills_section": {
+    "formatting_tips": [
+      "list skills in order of proficiency",
+      "group related skills together",
+      "include proficiency levels where possible",
+      "use industry-standard tool names"
+    ],
+    "high_value_keywords_generic": [
+      "problem solving", "communication", "leadership",
+      "teamwork", "adaptability", "critical thinking",
+      "project management", "time management", "attention to detail",
+      "collaboration", "mentoring", "strategic thinking"
+    ]
+  },
+  "education_section": {
+    "keywords": [
+      "bachelor", "master", "phd", "degree", "university",
+      "college", "institute", "certification", "certified",
+      "diploma", "coursework", "honours", "gpa", "summa cum laude",
+      "magna cum laude", "cum laude", "dean's list"
+    ]
+  },
+  "ats_format_keywords": {
+    "section_headers_recommended": [
+      "experience", "work experience", "professional experience",
+      "education", "skills", "technical skills",
+      "projects", "certifications", "summary",
+      "professional summary", "objective", "achievements"
+    ],
+    "section_headers_avoid": [
+      "about me", "who i am", "my journey",
+      "personal info", "hobbies", "interests"
+    ]
+  },
+  "role_ats_keywords": {
+    "Data Analyst": [
+      "data analysis", "sql", "python", "dashboard", "visualization",
+      "kpi", "metrics", "reporting", "insights", "data-driven",
+      "business intelligence", "tableau", "power bi", "excel",
+      "statistical analysis", "trend analysis", "forecasting"
+    ],
+    "ML Engineer": [
+      "machine learning", "model training", "deployment", "pipeline",
+      "tensorflow", "pytorch", "feature engineering", "deep learning",
+      "neural network", "prediction", "classification", "regression",
+      "mlops", "a/b testing", "model evaluation", "scalability"
+    ],
+    "Software Engineer": [
+      "software development", "algorithms", "data structures",
+      "object-oriented", "design patterns", "code review",
+      "unit testing", "agile", "git", "ci/cd", "system design",
+      "scalable", "clean code", "documentation", "debugging"
+    ],
+    "Backend Developer": [
+      "rest api", "microservices", "database", "sql", "authentication",
+      "authorization", "cache", "message queue", "docker",
+      "api design", "server", "backend", "node.js", "spring boot",
+      "django", "performance", "security"
+    ],
+    "Frontend Developer": [
+      "react", "html", "css", "javascript", "typescript",
+      "responsive", "accessibility", "ui", "ux", "component",
+      "state management", "api integration", "cross-browser",
+      "performance", "testing", "design system"
+    ],
+    "Full Stack Developer": [
+      "full stack", "frontend", "backend", "database", "api",
+      "deployment", "react", "node.js", "sql", "cloud",
+      "docker", "git", "agile", "end-to-end", "scalable"
+    ],
+    "DevOps Engineer": [
+      "ci/cd", "docker", "kubernetes", "infrastructure",
+      "automation", "terraform", "aws", "azure", "linux",
+      "monitoring", "logging", "deployment", "pipeline",
+      "security", "reliability", "incident response"
+    ],
+    "Data Scientist": [
+      "machine learning", "statistics", "python", "data analysis",
+      "predictive model", "hypothesis testing", "visualization",
+      "a/b testing", "experiment", "deep learning", "nlp",
+      "recommendation", "clustering", "regression", "storytelling"
+    ],
+    "Product Manager": [
+      "product roadmap", "agile", "scrum", "user research",
+      "stakeholder", "prioritization", "requirements",
+      "cross-functional", "strategy", "analytics", "kpi",
+      "go-to-market", "product launch", "user story"
+    ],
+    "Mobile Developer": [
+      "ios", "android", "react native", "flutter", "swift",
+      "kotlin", "mobile", "app", "api", "firebase",
+      "ui", "performance", "testing", "deployment",
+      "app store", "google play", "cross-platform"
+    ]
+  }
+}

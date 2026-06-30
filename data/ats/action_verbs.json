@@ -1,0 +1,51 @@
+{
+  "leadership": [
+    "led", "managed", "directed", "supervised", "spearheaded",
+    "championed", "mentored", "coached", "guided", "oversaw",
+    "orchestrated", "commanded", "headed", "steered", "drove",
+    "initiated", "pioneered", "founded", "established", "launched"
+  ],
+  "achievement": [
+    "achieved", "accomplished", "delivered", "exceeded", "surpassed",
+    "outperformed", "boosted", "increased", "improved", "enhanced",
+    "optimized", "maximized", "generated", "earned", "won",
+    "secured", "gained", "attained", "reached", "realized"
+  ],
+  "technical": [
+    "developed", "built", "created", "implemented", "designed",
+    "engineered", "programmed", "coded", "architected", "deployed",
+    "configured", "automated", "integrated", "migrated", "refactored",
+    "debugged", "tested", "maintained", "upgraded", "developed",
+    "modeled", "simulated", "prototyped", "optimized", "scaled"
+  ],
+  "analytical": [
+    "analyzed", "evaluated", "assessed", "researched", "investigated",
+    "identified", "diagnosed", "measured", "monitored", "tracked",
+    "forecasted", "predicted", "calculated", "quantified", "benchmarked",
+    "audited", "reviewed", "validated", "interpreted", "synthesized"
+  ],
+  "creative": [
+    "designed", "created", "innovated", "conceptualized", "devised",
+    "crafted", "authored", "wrote", "produced", "curated",
+    "illustrated", "composed", "formulated", "generated", "visualized",
+    "rebranded", "reimagined", "transformed", "revamped", "streamlined"
+  ],
+  "improvement": [
+    "streamlined", "optimized", "improved", "enhanced", "refined",
+    "simplified", "consolidated", "restructured", "reorganized",
+    "accelerated", "reduced", "eliminated", "minimized", "expedited",
+    "facilitated", "enabled", "empowered", "transformed", "revolutionized",
+    "modernized", "upgraded", "revitalized", "reinforced", "strengthened"
+  ],
+  "collaboration": [
+    "collaborated", "coordinated", "partnered", "liaised", "facilitated",
+    "aligned", "bridged", "mediated", "negotiated", "presented",
+    "communicated", "trained", "educated", "advised", "consulted",
+    "supported", "assisted", "contributed", "participated", "engaged"
+  ],
+  "growth": [
+    "grew", "expanded", "scaled", "cultivated", "developed",
+    "nurtured", "fostered", "cultivated", "extended", "broadened",
+    "diversified", "deepened", "accelerated", "amplified", "multiplied"
+  ]
+}

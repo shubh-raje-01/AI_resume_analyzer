@@ -1,0 +1,97 @@
+{
+  "roles_to_industries": {
+    "Data Analyst": ["Finance", "Healthcare", "Technology", "Retail", "E-commerce", "Government", "Telecom"],
+    "ML Engineer": ["Technology", "Finance", "Healthcare", "Autonomous Vehicles", "Research", "Defence"],
+    "Software Engineer": ["Technology", "Finance", "E-commerce", "Healthcare", "Startups", "Government", "Telecom"],
+    "Backend Developer": ["Technology", "E-commerce", "SaaS", "Finance", "Healthcare", "Logistics"],
+    "Frontend Developer": ["Technology", "E-commerce", "Media", "SaaS", "Advertising", "Education"],
+    "Full Stack Developer": ["Startups", "Technology", "SaaS", "E-commerce", "Media", "Healthcare"],
+    "DevOps Engineer": ["Technology", "Finance", "E-commerce", "Enterprise", "Cloud Services", "Telecom"],
+    "Data Scientist": ["Technology", "Finance", "Healthcare", "Retail", "Insurance", "Research"],
+    "Product Manager": ["Technology", "E-commerce", "SaaS", "Finance", "Healthcare", "Telecom"],
+    "Mobile Developer": ["Technology", "Healthcare", "Finance", "E-commerce", "Gaming", "Education"]
+  },
+  "industries_to_roles": {
+    "Technology": [
+      "Software Engineer", "ML Engineer", "Backend Developer", "Frontend Developer",
+      "Full Stack Developer", "DevOps Engineer", "Data Scientist", "Product Manager",
+      "Mobile Developer", "Data Analyst"
+    ],
+    "Finance": [
+      "Data Analyst", "Data Scientist", "Software Engineer", "Backend Developer",
+      "ML Engineer", "DevOps Engineer", "Product Manager"
+    ],
+    "Healthcare": [
+      "Software Engineer", "Data Analyst", "ML Engineer", "Data Scientist",
+      "Mobile Developer", "Full Stack Developer", "Product Manager"
+    ],
+    "E-commerce": [
+      "Backend Developer", "Frontend Developer", "Full Stack Developer",
+      "Data Analyst", "DevOps Engineer", "Mobile Developer", "Product Manager"
+    ],
+    "SaaS": [
+      "Full Stack Developer", "Backend Developer", "Frontend Developer",
+      "Product Manager", "DevOps Engineer", "Data Analyst"
+    ],
+    "Startups": [
+      "Full Stack Developer", "Software Engineer", "Mobile Developer",
+      "Product Manager", "Data Scientist", "DevOps Engineer"
+    ],
+    "Government": [
+      "Software Engineer", "Data Analyst", "Backend Developer", "DevOps Engineer"
+    ],
+    "Media": [
+      "Frontend Developer", "Full Stack Developer", "Data Analyst", "Mobile Developer"
+    ],
+    "Telecom": [
+      "Software Engineer", "DevOps Engineer", "Data Analyst", "Backend Developer", "Product Manager"
+    ],
+    "Research": [
+      "ML Engineer", "Data Scientist", "Data Analyst"
+    ],
+    "Education": [
+      "Frontend Developer", "Mobile Developer", "Full Stack Developer", "Product Manager"
+    ],
+    "Logistics": [
+      "Backend Developer", "Software Engineer", "Data Analyst", "DevOps Engineer"
+    ],
+    "Insurance": [
+      "Data Scientist", "Data Analyst", "Software Engineer", "Backend Developer"
+    ],
+    "Gaming": [
+      "Mobile Developer", "Software Engineer", "Full Stack Developer"
+    ],
+    "Advertising": [
+      "Frontend Developer", "Data Analyst", "Full Stack Developer"
+    ],
+    "Cloud Services": [
+      "DevOps Engineer", "Software Engineer", "Backend Developer", "ML Engineer"
+    ],
+    "Autonomous Vehicles": [
+      "ML Engineer", "Data Scientist", "Software Engineer"
+    ],
+    "Defence": [
+      "ML Engineer", "Software Engineer", "DevOps Engineer", "Data Scientist"
+    ]
+  },
+  "industry_keywords": {
+    "Technology": ["software", "platform", "cloud", "saas", "api", "scalable", "agile"],
+    "Finance": ["banking", "trading", "fintech", "compliance", "risk", "portfolio", "investment"],
+    "Healthcare": ["clinical", "patient", "hipaa", "ehr", "medical", "pharma", "health"],
+    "E-commerce": ["marketplace", "checkout", "inventory", "logistics", "orders", "cart", "payments"],
+    "SaaS": ["subscription", "multi-tenant", "dashboard", "onboarding", "retention", "saas"],
+    "Startups": ["mvp", "startup", "lean", "growth", "funding", "scale", "disruption"],
+    "Government": ["policy", "compliance", "public sector", "regulation", "federal", "civic"],
+    "Media": ["content", "streaming", "publishing", "audience", "engagement", "broadcast"],
+    "Telecom": ["network", "bandwidth", "5g", "infrastructure", "carrier", "billing"],
+    "Research": ["academic", "publication", "peer review", "experiment", "hypothesis", "laboratory"],
+    "Education": ["learning", "curriculum", "student", "lms", "edtech", "classroom"],
+    "Logistics": ["supply chain", "shipping", "warehouse", "fleet", "tracking", "delivery"],
+    "Insurance": ["underwriting", "claims", "actuarial", "policy", "premium", "coverage"],
+    "Gaming": ["game engine", "unity", "unreal", "multiplayer", "shader", "real-time"],
+    "Advertising": ["campaign", "targeting", "impression", "cpm", "conversion", "brand"],
+    "Cloud Services": ["aws", "azure", "gcp", "infrastructure", "hosting", "deployment"],
+    "Autonomous Vehicles": ["lidar", "computer vision", "sensor fusion", "self-driving", "simulation"],
+    "Defence": ["classified", "security clearance", "military", "defence", "surveillance"]
+  }
+}

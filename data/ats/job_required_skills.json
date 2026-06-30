@@ -1,0 +1,59 @@
+{
+  "Data Analyst": [
+    "sql", "python", "data analysis", "statistics", "data visualization",
+    "excel", "power bi", "tableau", "pandas", "numpy", "reporting",
+    "a/b testing", "hypothesis testing", "r", "looker"
+  ],
+  "ML Engineer": [
+    "python", "machine learning", "deep learning", "nlp", "tensorflow",
+    "pytorch", "feature engineering", "scikit-learn", "mlops",
+    "docker", "data pipeline", "model deployment", "distributed computing",
+    "neural networks", "cloud"
+  ],
+  "Software Engineer": [
+    "python", "data structures", "algorithms", "problem solving",
+    "git", "object oriented", "design patterns", "testing",
+    "debugging", "system design", "agile", "code review",
+    "java", "javascript", "documentation"
+  ],
+  "Backend Developer": [
+    "rest api", "databases", "sql", "authentication", "api development",
+    "spring boot", "node.js", "django", "docker", "microservices",
+    "nosql", "caching", "security", "performance optimization",
+    "message queues", "logging"
+  ],
+  "Frontend Developer": [
+    "html", "css", "javascript", "responsive design", "ui/ux",
+    "react", "typescript", "webpack", "accessibility",
+    "testing", "api integration", "cross-browser compatibility",
+    "tailwind css", "state management", "performance optimization"
+  ],
+  "Full Stack Developer": [
+    "javascript", "python", "api", "database", "frontend", "backend",
+    "react", "node.js", "sql", "docker", "git", "agile",
+    "cloud", "typescript", "deployment", "testing"
+  ],
+  "DevOps Engineer": [
+    "docker", "kubernetes", "ci/cd", "linux", "cloud",
+    "infrastructure as code", "aws", "terraform", "ansible",
+    "monitoring", "prometheus", "networking", "security",
+    "automation", "scripting", "incident management"
+  ],
+  "Data Scientist": [
+    "python", "machine learning", "statistics", "data analysis", "sql",
+    "visualization", "r", "deep learning", "pandas", "scikit-learn",
+    "a/b testing", "predictive modeling", "big data", "hypothesis testing",
+    "experiment design", "storytelling"
+  ],
+  "Product Manager": [
+    "product management", "agile", "stakeholder management", "roadmap",
+    "user research", "prioritization", "scrum", "analytics",
+    "competitive analysis", "requirements", "communication",
+    "product strategy", "data driven", "presentation"
+  ],
+  "Mobile Developer": [
+    "mobile development", "api integration", "ui", "testing", "deployment",
+    "swift", "kotlin", "react native", "flutter", "android", "ios",
+    "firebase", "push notifications", "app store", "performance optimization"
+  ]
+}

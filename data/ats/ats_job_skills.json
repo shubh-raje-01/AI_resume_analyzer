@@ -1,0 +1,212 @@
+{
+  "Data Analyst": {
+    "core": {
+      "sql": 10,
+      "python": 10,
+      "data analysis": 8,
+      "statistics": 7,
+      "data visualization": 6,
+      "excel": 5
+    },
+    "optional": {
+      "power bi": 5,
+      "tableau": 4,
+      "r": 4,
+      "pandas": 3,
+      "numpy": 3,
+      "looker": 3,
+      "a/b testing": 4,
+      "hypothesis testing": 3
+    }
+  },
+  "ML Engineer": {
+    "core": {
+      "python": 10,
+      "machine learning": 10,
+      "deep learning": 8,
+      "nlp": 7,
+      "tensorflow": 6,
+      "pytorch": 6
+    },
+    "optional": {
+      "feature engineering": 5,
+      "mlops": 5,
+      "docker": 4,
+      "kubernetes": 3,
+      "scikit-learn": 4,
+      "data pipeline": 4,
+      "model deployment": 5,
+      "cloud": 3,
+      "distributed computing": 3
+    }
+  },
+  "Software Engineer": {
+    "core": {
+      "python": 8,
+      "data structures": 10,
+      "algorithms": 10,
+      "problem solving": 8,
+      "git": 6,
+      "object oriented": 7
+    },
+    "optional": {
+      "java": 5,
+      "javascript": 5,
+      "design patterns": 5,
+      "testing": 4,
+      "debugging": 4,
+      "docker": 4,
+      "microservices": 4,
+      "agile": 3,
+      "system design": 5
+    }
+  },
+  "Backend Developer": {
+    "core": {
+      "rest api": 9,
+      "databases": 8,
+      "sql": 8,
+      "authentication": 7,
+      "api development": 8,
+      "server side": 7
+    },
+    "optional": {
+      "spring boot": 5,
+      "node.js": 5,
+      "django": 5,
+      "docker": 5,
+      "kubernetes": 4,
+      "microservices": 6,
+      "nosql": 4,
+      "caching": 4,
+      "java": 4,
+      "python": 4
+    }
+  },
+  "Frontend Developer": {
+    "core": {
+      "html": 9,
+      "css": 9,
+      "javascript": 10,
+      "responsive design": 8,
+      "ui/ux": 7
+    },
+    "optional": {
+      "react": 6,
+      "vue": 5,
+      "angular": 5,
+      "typescript": 6,
+      "webpack": 4,
+      "tailwind css": 4,
+      "accessibility": 4,
+      "testing": 3,
+      "api integration": 4
+    }
+  },
+  "Full Stack Developer": {
+    "core": {
+      "javascript": 9,
+      "python": 7,
+      "api": 8,
+      "database": 7,
+      "frontend": 7,
+      "backend": 7
+    },
+    "optional": {
+      "react": 5,
+      "node.js": 5,
+      "sql": 5,
+      "docker": 4,
+      "git": 4,
+      "agile": 3,
+      "cloud": 4,
+      "typescript": 5,
+      "deployment": 4
+    }
+  },
+  "DevOps Engineer": {
+    "core": {
+      "docker": 10,
+      "kubernetes": 9,
+      "ci/cd": 10,
+      "linux": 8,
+      "cloud": 8,
+      "infrastructure as code": 7
+    },
+    "optional": {
+      "aws": 5,
+      "azure": 4,
+      "terraform": 5,
+      "ansible": 4,
+      "jenkins": 4,
+      "monitoring": 5,
+      "prometheus": 4,
+      "grafana": 3,
+      "networking": 4,
+      "security": 4
+    }
+  },
+  "Data Scientist": {
+    "core": {
+      "python": 9,
+      "machine learning": 9,
+      "statistics": 10,
+      "data analysis": 8,
+      "sql": 7,
+      "visualization": 6
+    },
+    "optional": {
+      "r": 5,
+      "deep learning": 5,
+      "pandas": 5,
+      "scikit-learn": 5,
+      "a/b testing": 5,
+      "predictive modeling": 5,
+      "big data": 4,
+      "spark": 3,
+      "hypothesis testing": 4,
+      "experiment design": 4
+    }
+  },
+  "Product Manager": {
+    "core": {
+      "product management": 10,
+      "agile": 8,
+      "stakeholder management": 7,
+      "roadmap": 8,
+      "user research": 7,
+      "prioritization": 7
+    },
+    "optional": {
+      "scrum": 5,
+      "analytics": 5,
+      "competitive analysis": 4,
+      "requirements": 5,
+      "communication": 4,
+      "data driven": 4,
+      "jira": 3,
+      "product strategy": 5
+    }
+  },
+  "Mobile Developer": {
+    "core": {
+      "mobile development": 10,
+      "api integration": 7,
+      "ui": 7,
+      "testing": 6,
+      "deployment": 6
+    },
+    "optional": {
+      "swift": 5,
+      "kotlin": 5,
+      "react native": 5,
+      "flutter": 5,
+      "android": 5,
+      "ios": 5,
+      "firebase": 4,
+      "push notifications": 3,
+      "app store": 3,
+      "performance optimization": 4
+    }
+  }
+}

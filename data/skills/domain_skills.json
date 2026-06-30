@@ -1,0 +1,67 @@
+{
+  "finance": [
+    "financial analysis", "financial modeling", "budgeting",
+    "forecasting", "accounting", "bookkeeping", "tax compliance",
+    "risk assessment", "portfolio management", "investment analysis",
+    "bloomberg", "capital markets", "valuation", "due diligence",
+    "financial reporting", "gaap", "ifrs", "sap", "quickbooks"
+  ],
+  "healthcare": [
+    "patient care", "clinical research", "healthcare management",
+    "ehr", "electronic health records", "hipaa", "medical billing",
+    "healthcare analytics", "pharmacology", "telemedicine",
+    "population health", "care coordination", "health informatics"
+  ],
+  "education": [
+    "teaching", "curriculum design", "instructional design",
+    "e-learning", "learning management system", "lms",
+    "student engagement", "classroom management",
+    "educational technology", "edtech", "training", "coaching"
+  ],
+  "marketing": [
+    "digital marketing", "seo", "sem", "social media marketing",
+    "content marketing", "email marketing", "ppc",
+    "google ads", "facebook ads", "market research",
+    "brand management", "campaign management", "analytics",
+    "conversion optimization", "growth hacking", "crm",
+    "hubspot", "salesforce marketing", "copywriting"
+  ],
+  "sales": [
+    "sales", "business development", "lead generation",
+    "crm", "salesforce", "negotiation", "closing deals",
+    "account management", "client acquisition",
+    "sales strategy", "pipeline management", "quota management"
+  ],
+  "legal": [
+    "contract law", "intellectual property", "compliance",
+    "regulatory affairs", "legal research", "litigation",
+    "due diligence", "corporate law", "employment law",
+    "data privacy", "gdpr", "legal documentation"
+  ],
+  "logistics_supply_chain": [
+    "supply chain management", "logistics", "inventory management",
+    "procurement", "warehouse management", "transportation",
+    "demand planning", "erp", "sap", "oracle",
+    "lean manufacturing", "operations management"
+  ],
+  "human_resources": [
+    "talent acquisition", "recruiting", "hr management",
+    "onboarding", "employee relations", "benefits administration",
+    "payroll", "performance management", "workforce planning",
+    "employer branding", "succession planning", "training development"
+  ],
+  "design_creative": [
+    "graphic design", "brand design", "logo design",
+    "typography", "color theory", "adobe suite",
+    "photoshop", "illustrator", "indesign", "after effects",
+    "video editing", "motion graphics", "3d modeling",
+    "animation", "content creation", "visual storytelling"
+  ],
+  "engineering_manufacturing": [
+    "mechanical engineering", "electrical engineering",
+    "civil engineering", "structural engineering",
+    "autocad", "solidworks", "catia", "ansys",
+    "simulation", "prototyping", "quality control",
+    "iso 9001", "six sigma", "lean engineering"
+  ]
+}

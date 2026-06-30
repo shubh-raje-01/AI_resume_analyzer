@@ -1,0 +1,50 @@
+{
+  "communication": [
+    "communication", "verbal communication", "written communication",
+    "presentation", "public speaking", "negotiation",
+    "active listening", "interpersonal skills", "stakeholder communication",
+    "cross-functional communication", "client communication"
+  ],
+  "leadership": [
+    "leadership", "team leadership", "mentoring", "coaching",
+    "decision making", "strategic thinking", "vision",
+    "change management", "conflict resolution", "delegation",
+    "people management", "employee engagement"
+  ],
+  "problem_solving": [
+    "problem solving", "critical thinking", "analytical thinking",
+    "root cause analysis", "troubleshooting", "debugging",
+    "logical thinking", "creative problem solving", "systems thinking"
+  ],
+  "teamwork": [
+    "teamwork", "collaboration", "team player", "cross-functional",
+    "cooperation", "partnership", "group work",
+    "shared responsibility", "collective problem solving"
+  ],
+  "adaptability": [
+    "adaptability", "flexibility", "learning agility",
+    "resilience", "self-directed", "initiative",
+    "quick learner", "fast learner", "continuous learning"
+  ],
+  "time_management": [
+    "time management", "prioritization", "multitasking",
+    "deadline management", "task management", "efficiency",
+    "productivity", "planning", "scheduling",
+    "goal setting", "workload management"
+  ],
+  "creativity": [
+    "creativity", "innovation", "creative thinking",
+    "brainstorming", "ideation", "design thinking",
+    "outside the box thinking", "innovative solutions"
+  ],
+  "ethics_integrity": [
+    "integrity", "ethics", "honesty", "trustworthy",
+    "accountability", "professionalism", "attention to detail",
+    "reliability", "dependability"
+  ],
+  "emotional_intelligence": [
+    "emotional intelligence", "empathy", "self-awareness",
+    "social skills", "relationship building", "networking",
+    "cultural sensitivity", "diversity awareness"
+  ]
+}

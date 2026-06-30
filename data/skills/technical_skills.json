@@ -1,0 +1,125 @@
+{
+  "programming_languages": [
+    "python", "java", "javascript", "typescript", "c++", "c#", "c",
+    "ruby", "go", "golang", "rust", "swift", "kotlin", "scala",
+    "php", "perl", "r", "matlab", "haskell", "lua", "dart", "groovy",
+    "fortran", "assembly", "visual basic", "powershell", "bash", "shell scripting"
+  ],
+  "web_frontend": [
+    "html", "css", "html5", "css3", "javascript", "typescript",
+    "react", "react.js", "vue", "vue.js", "angular", "angularjs",
+    "jquery", "bootstrap", "tailwind css", "sass", "less",
+    "webpack", "babel", "next.js", "nuxt.js", "svelte",
+    "responsive design", "ui/ux", "user interface", "material ui",
+    "styled components", "redux", "graphql", "rest api consumption"
+  ],
+  "web_backend": [
+    "node.js", "express", "express.js", "django", "flask",
+    "spring boot", "spring", "laravel", "asp.net", "ruby on rails",
+    "fastapi", "nestjs", "koa", "hapi", "strapi",
+    "rest api", "restful api", "graphql", "microservices",
+    "api development", "authentication", "oauth", "jwt",
+    "server side rendering", "backend development"
+  ],
+  "databases": [
+    "sql", "mysql", "postgresql", "postgres", "sqlite", "oracle",
+    "microsoft sql server", "mssql", "mongodb", "mongoose",
+    "redis", "cassandra", "dynamodb", "elasticsearch",
+    "firebase", "couchdb", "neo4j", "nosql",
+    "database design", "query optimization", "stored procedures",
+    "data modeling", "schema design", "orm", "sequelize", "hibernate"
+  ],
+  "cloud_platforms": [
+    "aws", "amazon web services", "azure", "microsoft azure",
+    "google cloud", "gcp", "google cloud platform",
+    "aws s3", "aws ec2", "aws lambda", "aws rds",
+    "azure functions", "azure devops", "azure storage",
+    "gke", "cloud functions", "cloud run",
+    "cloud computing", "cloud architecture", "cloud deployment",
+    "heroku", "digitalocean", "vercel", "netlify"
+  ],
+  "devops_infrastructure": [
+    "docker", "kubernetes", "k8s", "ci/cd", "jenkins",
+    "github actions", "gitlab ci", "travis ci", "circleci",
+    "terraform", "ansible", "vagrant", "chef", "puppet",
+    "linux", "ubuntu", "centos", "red hat",
+    "nginx", "apache", "load balancing", "monitoring",
+    "logging", "elk stack", "prometheus", "grafana",
+    "infrastructure as code", "automation", "sre",
+    "site reliability engineering", "devops"
+  ],
+  "machine_learning_ai": [
+    "machine learning", "deep learning", "artificial intelligence",
+    "neural networks", "convolutional neural network", "cnn",
+    "recurrent neural network", "rnn", "lstm",
+    "natural language processing", "nlp", "computer vision",
+    "tensorflow", "pytorch", "keras", "scikit-learn", "sklearn",
+    "pandas", "numpy", "scipy", "matplotlib", "seaborn",
+    "feature engineering", "model training", "model deployment",
+    "mlops", "data pipeline", "etl", "data preprocessing",
+    "supervised learning", "unsupervised learning",
+    "reinforcement learning", "transfer learning",
+    "transformers", "bert", "gpt", "llm", "large language model",
+    "xgboost", "lightgbm", "random forest", "ensemble methods",
+    "regression", "classification", "clustering", "recommendation systems"
+  ],
+  "data_science": [
+    "data analysis", "data science", "data engineering",
+    "data visualization", "tableau", "power bi", "looker",
+    "excel", "advanced excel", "pivot tables",
+    "statistics", "statistical analysis", "hypothesis testing",
+    "a/b testing", "experiment design", "regression analysis",
+    "time series", "forecasting", "predictive modeling",
+    "big data", "hadoop", "spark", "apache spark",
+    "data warehouse", "data lake", "snowflake", "redshift",
+    "airflow", "dbt", "sql analytics"
+  ],
+  "mobile_development": [
+    "android", "ios", "swift", "swiftui", "kotlin",
+    "react native", "flutter", "dart", "xamarin",
+    "mobile development", "mobile ui", "app store",
+    "google play", "firebase", "mobile backend",
+    "objective c", "xcode", "android studio",
+    "mobile testing", "mobile security", "push notifications"
+  ],
+  "testing_qa": [
+    "unit testing", "integration testing", "end to end testing",
+    "selenium", "jest", "pytest", "junit", "testng",
+    "cypress", "playwright", "mocha", "chai",
+    "test automation", "qa", "quality assurance",
+    "test driven development", "tdd", "bdd",
+    "bug reporting", "test planning", "performance testing",
+    "load testing", "jmeter", "postman"
+  ],
+  "version_control_collaboration": [
+    "git", "github", "gitlab", "bitbucket",
+    "version control", "branching", "merge requests",
+    "pull requests", "code review", "agile",
+    "scrum", "kanban", "jira", "confluence",
+    "slack", "team collaboration"
+  ],
+  "security_networking": [
+    "cybersecurity", "security", "penetration testing",
+    "vulnerability assessment", "firewall", "vpn",
+    "ssl", "tls", "encryption", "cryptography",
+    "network administration", "tcp/ip", "dns", "dhcp",
+    "iam", "identity management", "siem",
+    "owasp", "secure coding", "devsecops"
+  ],
+  "design_ux": [
+    "ui design", "ux design", "user experience",
+    "figma", "sketch", "adobe xd", "photoshop",
+    "illustrator", "indesign", "prototyping",
+    "wireframing", "user research", "usability testing",
+    "design systems", "design thinking", "information architecture",
+    "interaction design", "accessibility", "wcag"
+  ],
+  "project_management": [
+    "project management", "pmp", "program management",
+    "agile", "scrum master", "product owner",
+    "risk management", "resource planning",
+    "stakeholder management", "budget management",
+    "timeline management", "scope management",
+    "waterfall", "lean", "six sigma"
+  ]
+}

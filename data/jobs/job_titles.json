@@ -1,0 +1,82 @@
+{
+  "Data Analyst": {
+    "category": "Data",
+    "average_salary_range": "$60k - $100k",
+    "experience_levels": ["Junior", "Mid-level", "Senior"],
+    "related_roles": ["Data Scientist", "Business Analyst", "BI Developer"],
+    "top_industries": ["Finance", "Healthcare", "Technology", "Retail", "E-commerce"],
+    "trending": true
+  },
+  "ML Engineer": {
+    "category": "AI/ML",
+    "average_salary_range": "$110k - $180k",
+    "experience_levels": ["Mid-level", "Senior", "Principal"],
+    "related_roles": ["Data Scientist", "AI Engineer", "Research Engineer"],
+    "top_industries": ["Technology", "Finance", "Healthcare", "Autonomous Vehicles"],
+    "trending": true
+  },
+  "Software Engineer": {
+    "category": "Engineering",
+    "average_salary_range": "$80k - $150k",
+    "experience_levels": ["Junior", "Mid-level", "Senior", "Principal"],
+    "related_roles": ["Backend Developer", "Frontend Developer", "Full Stack Developer"],
+    "top_industries": ["Technology", "Finance", "E-commerce", "Healthcare", "Startups"],
+    "trending": true
+  },
+  "Backend Developer": {
+    "category": "Engineering",
+    "average_salary_range": "$75k - $140k",
+    "experience_levels": ["Junior", "Mid-level", "Senior"],
+    "related_roles": ["Software Engineer", "Full Stack Developer", "API Developer"],
+    "top_industries": ["Technology", "E-commerce", "SaaS", "Finance"],
+    "trending": true
+  },
+  "Frontend Developer": {
+    "category": "Engineering",
+    "average_salary_range": "$70k - $130k",
+    "experience_levels": ["Junior", "Mid-level", "Senior"],
+    "related_roles": ["UI Developer", "Full Stack Developer", "UX Engineer"],
+    "top_industries": ["Technology", "E-commerce", "Media", "SaaS"],
+    "trending": true
+  },
+  "Full Stack Developer": {
+    "category": "Engineering",
+    "average_salary_range": "$85k - $155k",
+    "experience_levels": ["Junior", "Mid-level", "Senior"],
+    "related_roles": ["Software Engineer", "Backend Developer", "Frontend Developer"],
+    "top_industries": ["Startups", "Technology", "SaaS", "E-commerce"],
+    "trending": true
+  },
+  "DevOps Engineer": {
+    "category": "Infrastructure",
+    "average_salary_range": "$95k - $160k",
+    "experience_levels": ["Mid-level", "Senior", "Principal"],
+    "related_roles": ["SRE Engineer", "Cloud Engineer", "Platform Engineer"],
+    "top_industries": ["Technology", "Finance", "E-commerce", "Enterprise"],
+    "trending": true
+  },
+  "Data Scientist": {
+    "category": "Data",
+    "average_salary_range": "$90k - $160k",
+    "experience_levels": ["Junior", "Mid-level", "Senior", "Principal"],
+    "related_roles": ["ML Engineer", "Data Analyst", "Research Scientist"],
+    "top_industries": ["Technology", "Finance", "Healthcare", "Retail"],
+    "trending": true
+  },
+  "Product Manager": {
+    "category": "Management",
+    "average_salary_range": "$90k - $160k",
+    "experience_levels": ["Associate", "Mid-level", "Senior", "Principal"],
+    "related_roles": ["Program Manager", "Product Owner", "Business Analyst"],
+    "top_industries": ["Technology", "E-commerce", "SaaS", "Finance"],
+    "trending": true
+  },
+  "Mobile Developer": {
+    "category": "Engineering",
+    "average_salary_range": "$80k - $140k",
+    "experience_levels": ["Junior", "Mid-level", "Senior"],
+    "related_roles": ["iOS Developer", "Android Developer", "Cross-platform Developer"],
+    "top_industries": ["Technology", "Healthcare", "Finance", "E-commerce"],
+    "trending": true
+  }
+}

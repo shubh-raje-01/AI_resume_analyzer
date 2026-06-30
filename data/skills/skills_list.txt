@@ -1,0 +1,235 @@
+python
+java
+c++
+sql
+mysql
+postgresql
+machine learning
+deep learning
+nlp
+data analysis
+pandas
+numpy
+scikit-learn
+tensorflow
+dockepython
+java
+javascript
+typescript
+c++
+c#
+ruby
+go
+golang
+rust
+swift
+kotlin
+scala
+php
+r
+matlab
+html
+css
+react
+vue
+angular
+jquery
+bootstrap
+tailwind css
+sass
+webpack
+next.js
+node.js
+express
+django
+flask
+spring boot
+laravel
+fastapi
+rest api
+graphql
+microservices
+sql
+mysql
+postgresql
+mongodb
+redis
+cassandra
+dynamodb
+elasticsearch
+nosql
+aws
+azure
+google cloud
+gcp
+docker
+kubernetes
+ci/cd
+jenkins
+terraform
+ansible
+linux
+nginx
+machine learning
+deep learning
+artificial intelligence
+neural networks
+nlp
+natural language processing
+computer vision
+tensorflow
+pytorch
+keras
+scikit-learn
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+feature engineering
+mlops
+data pipeline
+etl
+xgboost
+lightgbm
+random forest
+data analysis
+data science
+data engineering
+data visualization
+tableau
+power bi
+looker
+excel
+statistics
+big data
+hadoop
+spark
+apache spark
+snowflake
+redshift
+airflow
+android
+ios
+react native
+flutter
+kotlin
+swift
+unit testing
+selenium
+jest
+pytest
+cypress
+test automation
+qa
+tdd
+git
+github
+gitlab
+agile
+scrum
+jira
+confluence
+cybersecurity
+penetration testing
+vpn
+encryption
+figma
+sketch
+photoshop
+ui design
+ux design
+prototyping
+wireframing
+project management
+pmp
+risk management
+communication
+leadership
+teamwork
+problem solving
+critical thinking
+time management
+adaptability
+creativity
+negotiation
+presentation
+mentoring
+coaching
+financial analysis
+digital marketing
+seo
+content marketing
+supply chain
+recruiting
+graphic design
+autocad
+solidworks
+six sigma
+oauth
+jwt
+authentication
+swagger
+postman
+docker compose
+gitlab ci
+github actions
+devops
+sre
+monitoring
+prometheus
+grafana
+elk stack
+websockets
+api gateway
+serverless
+cloud functions
+lambda
+dynamodb
+kinesis
+sqs
+sns
+s3
+ec2
+iam
+vpc
+cloudformation
+beanstalk
+heroku
+vercel
+netlify
+firebase
+supabase
+mongodb atlas
+cockroachdb
+neo4j
+couchdb
+cassandra
+kafka
+rabbitmq
+celery
+airflow
+luigi
+prefect
+dbt
+looker
+metabase
+jupyter notebook
+google colab
+anaconda
+virtualenv
+docker
+vagrant
+kubernetes
+helm
+istio
+datadog
+newrelic
+sentry
+logstash
+kibana
+splunk
+git
+spring boot
+fastapi
+aws

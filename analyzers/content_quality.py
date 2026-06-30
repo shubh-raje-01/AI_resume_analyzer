@@ -1,4 +1,4 @@
-from typing import Dict
+from typing import Dict, List
 import logging
 
 from nlp.text_analyzer import get_content_quality_score, TextAnalyzer

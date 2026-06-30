@@ -2,6 +2,7 @@
 Configuration settings for Resume Analyzer application.
 """
 import os
+import logging
 from pathlib import Path
 
 # PROJECT PATHS
@@ -111,7 +112,9 @@ ENABLE_COVER_LETTER = False  # Phase 2
 # LOGGING
 # ============================================
 LOG_LEVEL = "INFO"
-LOG_FILE = ROOT_DIR / "app.log"
+LOG_FILE = Path(os.getenv("LOG_FILE", str(ROOT_DIR / "app.log")))
+ENABLE_FILE_LOGGING = os.getenv("ENABLE_FILE_LOGGING", "true").lower() in {"1", "true", "yes", "on"}
+LOG_FORMAT = "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
 
 # ============================================
 # CACHE SETTINGS
@@ -174,6 +177,33 @@ def get_file_path(filename: str, subdirectory: str = "") -> Path:
 def validate_file_exists(filepath: Path) -> bool:
     """Check if file exists."""
     return filepath.exists() and filepath.is_file()
+
+
+def setup_logging() -> logging.Logger:
+    """Configure application logging for local and hosted runs."""
+    root_logger = logging.getLogger()
+    if root_logger.handlers:
+        return root_logger
+
+    log_level_name = os.getenv("LOG_LEVEL", LOG_LEVEL).upper()
+    log_level = getattr(logging, log_level_name, logging.INFO)
+
+    handlers = [logging.StreamHandler()]
+
+    if ENABLE_FILE_LOGGING:
+        try:
+            LOG_FILE.parent.mkdir(parents=True, exist_ok=True)
+            handlers.append(logging.FileHandler(LOG_FILE, encoding="utf-8"))
+        except OSError:
+            pass
+
+    logging.basicConfig(
+        level=log_level,
+        format=LOG_FORMAT,
+        handlers=handlers,
+    )
+
+    return root_logger
 
 # Initialize directories on import
 ensure_directories()
